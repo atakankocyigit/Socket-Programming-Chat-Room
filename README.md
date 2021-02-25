@@ -15,3 +15,6 @@ common area.
 others' messages should look different in the room.
 - whoami: Shows your own nickname information.
 - exit: Exit the program.
+
+## LICENSE
+MIT LICENSE
