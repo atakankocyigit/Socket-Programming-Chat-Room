@@ -189,7 +189,7 @@ void Enter_Room(UserStruct *user,char* Room_Name){
         send(user->socketNo , msg , strlen(msg),0);
     }
 }
-//Kullanıcı function
+//User function
 void *connection_handler(void *socket_desc)
 {
     int sock = *((int*)socket_desc);   
